@@ -34,13 +34,17 @@ I help European businesses grow with **AI chatbots, modern websites and mobile a
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
 
-## 📂 Featured project
+## 📂 Featured projects
 
-### [Portfolio + E-commerce Demo](https://github.com/attiq78/Portfolio)
-Multilingual portfolio site (EN/IT/DE/FR/NL) with a full e-commerce demo:
-product catalog, cart, checkout with **Stripe**, user accounts (JWT), and an
-**AI shopping assistant chatbot** that recommends products and tracks orders.
-`Next.js 15` · `TypeScript` · `MongoDB` · `Stripe` · `Tailwind CSS`
+### [Freelance Portfolio Website](https://github.com/attiq78/Portfolio)
+Multilingual portfolio site in 5 languages (EN/IT/DE/FR/NL) with SEO-friendly URLs,
+structured data for Google and smooth scroll animations.
+`Next.js 15` · `TypeScript` · `Tailwind CSS`
+
+### [Flock — Full-stack E-commerce](https://github.com/attiq78/Flock-by-Attiq)
+Online store with user accounts, cart, checkout, order tracking and an
+**AI shopping assistant chatbot**.
+`Next.js` · `TypeScript` · `MongoDB`
 
 > More AI chatbot and app projects coming soon. Watch this space!
 
