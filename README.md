@@ -4,6 +4,8 @@
 
 I help European businesses grow with **AI chatbots, modern websites and mobile apps**: multilingual, fast, and GDPR-ready.
 
+🌐 **Portfolio:** [portfolio-sael.vercel.app](https://portfolio-sael.vercel.app)
+
 ---
 
 ## 🚀 What I build
@@ -40,6 +42,7 @@ I help European businesses grow with **AI chatbots, modern websites and mobile a
 Multilingual portfolio site in 5 languages (EN/IT/DE/FR/NL) with SEO-friendly URLs,
 structured data for Google and smooth scroll animations.
 `Next.js 15` · `TypeScript` · `Tailwind CSS`
+🔗 **Live demo:** [portfolio-sael.vercel.app](https://portfolio-sael.vercel.app)
 
 ### [Flock — Full-stack E-commerce](https://github.com/attiq78/Flock-by-Attiq)
 Online store with user accounts, cart, checkout, order tracking and an
@@ -50,6 +53,7 @@ Online store with user accounts, cart, checkout, order tracking and an
 
 ## 📫 Let's work together
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-sael.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/attique-dev/)
 
 💬 Open for freelance projects across Europe. Message me on LinkedIn to discuss your idea.
